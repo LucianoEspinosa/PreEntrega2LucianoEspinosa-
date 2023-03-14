@@ -1,4 +1,3 @@
-
 const carrito = [];
 let deseaAgregarProductos = "";
 let precioTotal = 0;
