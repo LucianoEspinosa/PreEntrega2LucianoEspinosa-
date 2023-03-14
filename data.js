@@ -1,4 +1,3 @@
-//carga de productos
 class fragancia {
     constructor(marca, nombre, precio) {
         this.marca = marca;
@@ -16,3 +15,4 @@ const producto7 = new fragancia("AZZARO", "wanted", 25000);
 const producto8 = new fragancia("AZZARO", "most wanted", 35000);
 
 const productos = [producto1, producto2, producto3, producto4, producto5, producto6, producto7, producto8];
+
